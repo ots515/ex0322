@@ -8,7 +8,8 @@ public class HelloGit {
 		System.out.println("2_add_hotfix");
 		//	2. merge 후 마스터 브랜치 수정
 		System.out.println("3_add master");
-		
+		//	3. github updata by ots
+		System.out.println("4_github update master");
 		
 	}
 
